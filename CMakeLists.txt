@@ -1,4 +1,4 @@
-cmake_minimum_required (VERSION 3.5)
+cmake_minimum_required(VERSION 3.5...3.31)
 
 configure_file(
 	"${CMAKE_CURRENT_SOURCE_DIR}/DejaVu/LICENSE"
