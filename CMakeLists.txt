@@ -9,6 +9,7 @@ configure_file(
 set(wz2100_fonts_FILES
 	"${CMAKE_CURRENT_SOURCE_DIR}/DejaVu/DejaVuSans-Bold.ttf"
 	"${CMAKE_CURRENT_SOURCE_DIR}/DejaVu/DejaVuSans.ttf"
+	"${CMAKE_CURRENT_SOURCE_DIR}/DejaVu/DejaVuSansCondensed-Bold.ttf"
 	"${CMAKE_CURRENT_BINARY_DIR}/DejaVu/DejaVu.LICENSE.txt"
 )
 
